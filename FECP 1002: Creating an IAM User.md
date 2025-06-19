@@ -84,5 +84,5 @@ To complete the lab, submit your IAM username in the following JSON format:
 
 ```json
 {
-  "user_name": ""
+  "username": ""
 }
