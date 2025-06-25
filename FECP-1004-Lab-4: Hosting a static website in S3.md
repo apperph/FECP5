@@ -14,7 +14,7 @@ Log in to your **AWS account**, navigate to the **S3 console**, and click on **C
 ### 1-b. Configure the Bucket
 - Set a name for your **S3 bucket**  
 - **Uncheck** the option to **Block all public access**  
-- Under **Object Ownership**, select **ACLs enabled**  
+- Under **Object Ownership**, select **ACLs disabled**  
 - Click **Create Bucket**
 
 ![Step 1-b-1](https://sb-next-prod-image-bucket.s3.ap-southeast-1.amazonaws.com/public/CAMP/Labs2025/Session2/Lab5/image-2.png)  
