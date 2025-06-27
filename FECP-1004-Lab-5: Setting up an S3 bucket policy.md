@@ -131,8 +131,9 @@ Please copy and paste the JSON in the textbox on the left side and supply the ne
 
 ```
 {
- "s3_bucket-arn":"",
- "iam_user_arn": ""
+    "s3_bucket_arn": "arn:aws:s3:::carlo",
+    "iam_user_arn": "arn:aws:iam::236921907600:user/apper.kct",
+    "region": "us-east-1"
 }
 ```
 
