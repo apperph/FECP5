@@ -221,7 +221,7 @@ Please copy the JSON to the textbox on the left side and fill in the required AW
 
 ```
 {
-   "ec2_instance_id": "",
+   "instance_id": "",
    "region": ""
 }
 ```
